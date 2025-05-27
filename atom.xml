@@ -6,7 +6,7 @@
   <link href="http://geyong.xin/atom.xml" rel="self"/>
   
   <link href="http://geyong.xin/"/>
-  <updated>2025-05-26T10:24:58.224Z</updated>
+  <updated>2025-05-26T15:09:07.897Z</updated>
   <id>http://geyong.xin/</id>
   
   <author>
@@ -17,13 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>math</title>
+    <link href="http://geyong.xin/2025/05/26/math/"/>
+    <id>http://geyong.xin/2025/05/26/math/</id>
+    <published>2025-05-26T15:01:16.857Z</published>
+    <updated>2025-05-26T15:09:07.897Z</updated>
+    
+    <content type="html"><![CDATA[<p><spanclass="math display">∫<sub><em>a</em></sub><sup><em>b</em></sup><em>f</em>(<em>x</em>) <em>d</em><em>x</em> = <em>F</em>(<em>b</em>) − <em>F</em>(<em>a</em>)</span></p><p><spanclass="math display">∫<sub><em>a</em></sub><sup><em>b</em></sup>[<em>α</em><em>f</em>(<em>x</em>) + <em>β</em><em>g</em>(<em>x</em>)] <em>d</em><em>x</em> = <em>α</em>∫<sub><em>a</em></sub><sup><em>b</em></sup><em>f</em>(<em>x</em>) <em>d</em><em>x</em> + <em>β</em>∫<sub><em>a</em></sub><sup><em>b</em></sup><em>g</em>(<em>x</em>) <em>d</em><em>x</em></span></p><p><spanclass="math display">∫<sub><em>a</em></sub><sup><em>b</em></sup><em>f</em>(<em>g</em>(<em>x</em>))<em>g</em><sup>′</sup>(<em>x</em>) <em>d</em><em>x</em> = ∫<sub><em>g</em>(<em>a</em>)</sub><sup><em>g</em>(<em>b</em>)</sup><em>f</em>(<em>u</em>) <em>d</em><em>u</em></span></p><h6 id="说明-令ugx则dugxdx.">说明: 令u=g(x),则du=g’(x)dx.</h6><p><spanclass="math display">∃<em>c</em> ∈ [<em>a</em>, <em>b</em>],  ∫<sub><em>a</em></sub><sup><em>b</em></sup><em>f</em>(<em>x</em>) <em>d</em><em>x</em> = <em>f</em>(<em>c</em>)(<em>b</em> − <em>a</em>)</span></p><p><spanclass="math display">∫<sub>0</sub><sup><em>π</em>/2</sup>sin <em>x</em> <em>d</em><em>x</em> = 1</span></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;span
+class=&quot;math display&quot;&gt;∫&lt;sub&gt;&lt;em&gt;a&lt;/em&gt;&lt;/sub&gt;&lt;sup&gt;&lt;em&gt;b&lt;/em&gt;&lt;/sup&gt;&lt;em&gt;f&lt;/em&gt;(&lt;em&gt;x&lt;/em&gt;) &lt;em&gt;d&lt;/em&gt;&lt;em&gt;x&lt;/em&gt; = &lt;em&gt;F&lt;/em&gt;(&lt;em&gt;b&lt;/em</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
     <link href="http://geyong.xin/2025/05/26/hello-world/"/>
     <id>http://geyong.xin/2025/05/26/hello-world/</id>
     <published>2025-05-26T04:31:54.978Z</published>
-    <updated>2025-05-26T10:24:58.224Z</updated>
+    <updated>2025-05-26T15:01:41.737Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your veryfirst post. Check <a href="https://hexo.io/docs/">documentation</a> formore info. If you get any problems when using Hexo, you can find theanswer in <ahref="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> oryou can ask me on <ahref="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start">Quick Start</h2><h3 id="create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><p><spanclass="math display"><em>e</em> = <em>m</em><em>c</em><sup>2</sup></span></p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your veryfirst post. Check <a href="https://hexo.io/docs/">documentation</a> formore info. If you get any problems when using Hexo, you can find theanswer in <ahref="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> oryou can ask me on <ahref="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start">Quick Start</h2><h3 id="create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <ahref="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
       
